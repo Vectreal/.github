@@ -11,3 +11,5 @@ Vectreal is a state-of-the-art 3D e-commerce platform built to revolutionize the
 **Our Goals and Aspirations**
 
 We aim to provide businesses with an efficient, reliable, and visually captivating 3D e-commerce solution that not only enhances their online presence but also enthralls end consumers. By giving creators and enterprises the tools they need, we believe we can spark a new era of 3D e-commerce web pages, transforming the way people discover, explore, and shop for products online.
+
+Created by Moritz Becker and Ken Ismono
