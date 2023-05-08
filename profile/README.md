@@ -12,9 +12,9 @@ Vectreal is a state-of-the-art 3D e-commerce platform built to revolutionize the
 
 We aim to provide businesses with an efficient, reliable, and visually captivating 3D e-commerce solution that not only enhances their online presence but also enthralls end consumers. By giving creators and enterprises the tools they need, we believe we can spark a new era of 3D e-commerce web pages, transforming the way people discover, explore, and shop for products online.
 
-![Drag Racing](https://github.com/vectreal/.github/profile/images/screenshot1.png)
-![Drag Racing](https://github.com/vectreal/.github/profile/images/screenshot2.png)
-![Drag Racing](https://github.com/vectreal/.github/profile/images/screenshot3.png)
-![Drag Racing](https://github.com/vectreal/.github/profile/images/screenshot4.png)
+![Dashboard](https://github.com/Vectreal/.github/raw/main/profile/images/screenshot1.png)
+![Project Page](https://github.com/Vectreal/.github/raw/main/profile/images/screenshot2.png)
+![Hotspot editor](https://github.com/Vectreal/.github/raw/main/profile/images/screenshot3.png)
+![Scene editor](https://github.com/Vectreal/.github/raw/main/profile/images/screenshot4.png)
 
 Created by Moritz Becker and Ken Ismono
