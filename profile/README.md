@@ -19,4 +19,4 @@ Read a bit more [here.](https://moritzbecker.de/projects/vectreal/)
 ![Hotspot editor](https://github.com/Vectreal/.github/raw/main/profile/images/screenshot3.png)
 ![Scene editor](https://github.com/Vectreal/.github/raw/main/profile/images/screenshot4.png)
 
-Created by Moritz Becker and Ken Ismono
+Created by [Moritz Becker](https://moritzbecker.de) and [Ken Ismono](https://www.linkedin.com/in/ken-ismono-b54aaa186/)
