@@ -29,7 +29,7 @@ We invite developers, designers, and enthusiasts to join us on this journey. Whe
 
 Let's create something extraordinary together.
 
-Read a bit more [here.](https://moritzbecker.de/articles/vectreal-unveiled/)
+Read a bit more [here.](https://moritzbecker.de/article/vectreal-unveiled/)
 
 ![Dashboard](https://github.com/Vectreal/.github/raw/main/profile/images/screenshot1.png)
 ![Project Page](https://github.com/Vectreal/.github/raw/main/profile/images/screenshot2.png)
