@@ -1,18 +1,35 @@
-# Vectreal - Fitting room reality.
+**Vectreal Open-Core Platform**
 
-At Vectreal, our mission is to empower creators and enterprises by providing an innovative, user-friendly 3D e-commerce platform that enhances the online shopping experience.
+Welcome to the Vectreal Open-Core Platform, where cutting-edge 3D visualization and interaction technology meets the open-source community. Our mission is to empower developers, designers, and innovators with robust tools for 3D model viewing, scene composition, and augmented reality, all built on an open-core foundation.
 
-Vectreal combines cutting-edge 3D web visualization with a collaborative management platform designed specifically for fashion articles, setting us apart from the competition.
+**Our Vision**
 
-**What is Vectreal?**
+We believe in the power of collaboration and transparency in driving innovation. By providing our core functionalities as open-source, we aim to foster a vibrant ecosystem where contributors can enhance and extend the capabilities of the Vectreal platform.
 
-Vectreal is a state-of-the-art 3D e-commerce platform built to revolutionize the way fashion and e-commerce products are showcased and interacted with online. Our solution incorporates advanced 3D visualization technologies, making it simple for product owners to elevate user experience, interactions, and product discovery across e-commerce platforms.
+**Key Features**
 
-**Our Goals and Aspirations**
+- **3D Viewer:** A sophisticated tool for viewing 3D models in various formats.
+- **Interactive Model Viewer:** Enabling real-time interaction with 3D models.
+- **Scene Composition Tools:** Tools for creating and manipulating 3D scenes.
+- **Lighting and Environment Controls:** Comprehensive controls for lighting and environmental settings in 3D scenes.
+- **Model Optimization Tools:** Enhance and optimize 3D models for better performance.
+- **File Conversion Utilities:** Convert between GLTF, OBJ, and USDZ formats.
+- **SaaS Platform Integration:** Seamless integration with SaaS features like CMS, asset management, and cloud storage.
+- **Augmented Reality (AR) Functionality:** Tools and viewers to bring 3D models into AR experiences.
 
-We aim to provide businesses with an efficient, reliable, and visually captivating 3D e-commerce solution that not only enhances their online presence but also enthralls end consumers. By giving creators and enterprises the tools they need, we believe we can spark a new era of 3D e-commerce web pages, transforming the way people discover, explore, and shop for products online.
+**Join Us**
 
-Read a bit more [here.](https://moritzbecker.de/projects/vectreal/)
+We invite developers, designers, and enthusiasts to join us on this journey. Whether you are here to use the platform, contribute to the codebase, or share your innovative ideas, your participation is invaluable.
+
+**How to Contribute**
+
+- **Report Issues:** Found a bug? Let us know by opening an issue.
+- **Submit Pull Requests:** Have a fix or a new feature? We welcome your contributions.
+- **Engage with the Community:** Join discussions, provide feedback, and collaborate with other members.
+
+Let's create something extraordinary together.
+
+Read a bit more [here.](https://moritzbecker.de/articles/vectreal-unveiled/)
 
 ![Dashboard](https://github.com/Vectreal/.github/raw/main/profile/images/screenshot1.png)
 ![Project Page](https://github.com/Vectreal/.github/raw/main/profile/images/screenshot2.png)
